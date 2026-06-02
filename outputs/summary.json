@@ -1,0 +1,4 @@
+{
+  "status": "fallback",
+  "narrative": "Executive Summary\nOllama was unavailable, so this summary was generated from deterministic metrics only. Ollama is not reachable at http://localhost:11434.\n\nWhat Happened\nActive spend was 15772.94 with revenue 4023.54, versus historical spend 15944.29 and revenue 2679.38.\n\nWhy It Happened\nstrawberry leads the active flavor set while vanilla is the weakest current flavor by ROAS.\n\nRecommended Actions\n- Active campaign ROAS is ahead of the historical baseline; scale only the best-performing segments.\n- Prioritize strawberry creative testing and review why vanilla lags on ROAS.\n- Shift budget away from hour_of_day=23.0 and toward hour_of_day=22.0 if volume holds.\n\nUncertainty\nInterpretation is limited to the available CSV datasets and their precomputed metrics."
+}
